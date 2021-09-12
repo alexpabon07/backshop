@@ -1,2 +1,0 @@
-# backshop
-Project backend shop
